@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechnicallyBullish
-- 👀 I’m interested in ... technolgy_software_enginnering_blockchain_techinal_anaylsis
+- 👀 I’m interested in ... technolgy_software_enginnering_blockchain_technical_anaylsis
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...tba
 - 📫 How to reach me ...twitter
